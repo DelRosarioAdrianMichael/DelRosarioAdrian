@@ -1,0 +1,7 @@
+print("XXXXXXXXXXX")
+print("X  _   _  X")
+print("X  0   0  X")
+print("X    ^    X")
+print("X  \___/  X")
+print("X         X")
+print("XXXXXXXXXXX")

@@ -1,0 +1,5 @@
+print("      A          M     M  ")
+print("     A A         M M M M ")
+print("    AAAAA        M  M  M ")
+print("   A     A       M     M ")
+print("  A       A      M     M ")
